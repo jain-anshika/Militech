@@ -1,0 +1,22 @@
+# Ignore Jupyter notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Jupyter notebook kernel metadata
+*.ipynb.meta
+
+# Ignore Jupyter notebook execution files
+*.ipynb_executed
+
+# Ignore Jupyter notebook converted files
+*.html
+*.pdf
+*.py
+
+# Ignore Jupyter notebook workspace settings
+*.ipynb/workspace.json
+
+# Ignore Jupyter notebook autosave files
+*.autosave.ipynb
+
+# Ignore Jupyter notebook temporary files
+*.nbconvert.ipynb
